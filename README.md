@@ -1,1 +1,1 @@
-# t-submit-score-confirmation
+# t-submit-score-confirmation-entries-remaining
